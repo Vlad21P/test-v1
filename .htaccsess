@@ -1,0 +1,4 @@
+AddDefaultCharet UTF-8
+
+RewriteRule ^data?$ data.json [NC, L]
+
