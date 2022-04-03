@@ -1,0 +1,12 @@
+div.col { 
+    width: 500px;
+}
+#form1 {
+    display: none;
+    color: green;
+}
+#form2 {
+    display: none;
+    color: red;
+}
+
